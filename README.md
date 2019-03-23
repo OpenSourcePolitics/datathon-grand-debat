@@ -27,8 +27,12 @@ Pour plus d'info sur notre méthodologie lire la partie [I](https://medium.com/o
 - [Nancy](https://participez.nancy.fr/processes/GrandDebatNational)
 
 ### Jeux de données :
-MEL :
+MEL & Nancy
 - Commentaires 30 questions 
 - Propositions libres
-  - Titre et description des propositions libres
+  - Titre
+  - Description
+  - Catégorie
+  - Commentaire  
+  - Nombre de vote / soutien (juste pour la MEL)
 
