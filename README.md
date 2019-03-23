@@ -24,15 +24,13 @@ Pour plus d'info sur notre méthodologie lire la partie [I](https://medium.com/o
 ## Les données
 ### Liens vers les concertations sur Decidim :
 - [MEL](https://participation.lillemetropole.fr/processes/granddebatmel)
-- [Nancy](https://participez.nancy.fr/processes/GrandDebatNational)
 
 ### Jeux de données :
-MEL & Nancy
 - Commentaires 30 questions 
 - Propositions libres
   - Titre
   - Description
   - Catégorie
   - Commentaire  
-  - Nombre de vote / soutien (juste pour la MEL)
+  - Nombre de vote / soutien 
 
