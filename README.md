@@ -22,3 +22,13 @@ Tels que nous avions pu le faire pour la [synthèse de la consultation de l'Asse
 Pour plus d'info sur notre méthodologie lire la partie [I](https://medium.com/open-source-politics/pour-une-lecture-repens%C3%A9e-des-concertations-gr%C3%A2ce-au-traitement-automatique-des-langues-8d73977b0112?source=collection_home---4------0---------------------) et [II](https://medium.com/open-source-politics/les-innovations-m%C3%A9thodologiques-utilis%C3%A9es-par-osp-pour-lanalyse-des-discours-23a4165fbcfc?source=collection_home---4------1---------------------) de nos articles traitant du sujet.
 
 ## Les données
+### Liens vers les concertations sur Decidim :
+- [MEL](https://participation.lillemetropole.fr/processes/granddebatmel)
+- [Nancy](https://participez.nancy.fr/processes/GrandDebatNational)
+
+### Jeux de données :
+MEL :
+- Commentaires 30 questions 
+- Propositions libres
+  - Titre et description des propositions libres
+
