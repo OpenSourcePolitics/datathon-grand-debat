@@ -1,16 +1,16 @@
 # Le grand débat sur Decidim
-Analyse des données locales du grand débat émanant des instances Decidim de la Métropole Européenne de Lille (MEL) et de la ville de Nancy.
+Analyse des données locales du grand débat émanant de l'instance Decidim de la Métropole Européenne de Lille (MEL).
 
-Ces deux collectivités territoriales ont utilisé leur plateforme de démocratie participative libre et open source basées sur le logiciel libre [Decidim](https://decidim.org) pour proposer aux citoyens des modalités de débats plus ouvertes de contributions que le site officiel granddebat.fr. En effet le site officiel imposait de répondre à des questionnaires fermés ou publics, les utilisateurs pouvaient consulter les réponses pour ces derniers mais ne pouvaient pas commenter et échanger sur la plateforme.
+La plateforme de démocratie participative libre et open source basées sur le logiciel libre [Decidim](https://decidim.org) pour proposer aux citoyens des modalités de débats plus ouvertes de contributions que le site officiel granddebat.fr. En effet le site officiel imposait de répondre à des questionnaires fermés ou publics, les utilisateurs pouvaient consulter les réponses pour ces derniers mais ne pouvaient pas commenter et échanger sur la plateforme.
 
 Les citoyens ont ainsi pu contribuer de deux manières : 
 
 - commenter les  questions du Président de la République communiquée dans sa [lettre au français](https://www.elysee.fr/emmanuel-macron/2019/01/13/lettre-aux-francais)
 - déposer des contributions de manière totalement libre sur les 4 thématiques proposées Impôts, dépenses, action publique, Organisation de l’Etat et des collectivités publiques, Transition écologique, Démocratie et citoyenneté et Autres thématiques.
-- sur l'instance de la MEL les citoyens pouvaient également soutenir les propositions en votant
+- les citoyens pouvaient également soutenir les propositions en votant
 
 ## Notre objectif
-Analyser les données émanant de ces deux exercices locaux pour qu'elles puissent être comparées à celle du site officiel et participer de la synthèse collective. Il sera intéressant de voir quel impact sur les contributions le fait de proposer des modalités de contributions plus ouvertes.
+Analyser les données émanant de  cet exercice local pour qu'elles puissent être comparées à celle du site officiel et participer de la synthèse collective. Il sera intéressant de voir quel impact sur les contributions le fait de proposer des modalités de contributions plus ouvertes.
 
 Si nous avons suffisamment le temps nous essayerons de comparer nos jeux de données avec ceux du granddebat.fr en les filtrant par département.
 
